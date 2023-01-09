@@ -250,7 +250,8 @@ svg {
 
 .text-purple-400 {
     --tw-text-opacity: 1;
-    color: rgba(167, 139, 250, var(--tw-text-opacity))
+    color: rgba(167, 139, 250, var(--tw-text-opacity));
+    fill: rgba(167, 139, 250, var(--tw-text-opacity));
 }
 
 .text-red-400 {
@@ -310,7 +311,8 @@ svg {
 
 .hover\:text-purple-200:hover {
     --tw-text-opacity: 1;
-    color: rgba(221, 214, 254, var(--tw-text-opacity))
+    color: rgba(221, 214, 254, var(--tw-text-opacity));
+    fill: rgba(221, 214, 254, var(--tw-text-opacity));
 }
 
 .hover\:text-red-200:hover {
